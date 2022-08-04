@@ -1,0 +1,9 @@
+{
+  "name": "fs-watcher",
+  "version": "1.0.0",
+  "description": "Node.js n-api binding for efsw",
+  "main": "index.js",
+  "repository": "https://github.com/XiaocongDong/fs-watcher.git",
+  "author": "Dong Xiaocong <buptdxc@gmail.com>",
+  "license": "MIT"
+}
